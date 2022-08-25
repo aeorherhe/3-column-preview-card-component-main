@@ -43,7 +43,7 @@ button {
   padding: 20px 40px;
   color: hsl(31, 77%, 52%);
   margin: 10px 0%;
-  border: none;
+  /* border: none; */
   cursor: pointer;
 }
 
